@@ -1,0 +1,9 @@
+name: test_new
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - cudnn=8.1.0
+  - cudatoolkit=11.2
+  - nodejs=18.12.1
+prefix: /scratch/users/anup/miniconda3/envs/test_new

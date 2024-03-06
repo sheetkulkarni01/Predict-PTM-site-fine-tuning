@@ -1,6 +1,6 @@
 # Prediction of dephosphorylation sites using fine-tuned protein large models and integrate it as a Galaxy tool
 
-Using transformer-based architecture (ProtTrans - short for Protein Transformer) to predict dephosphorylation sites of Y.
+Using transformer-based architecture (ProtTrans - short for Protein Transformer) to predict dephosphorylation sites of Y and integrating it as a galaxy tool.
 
 ## Getting started
 

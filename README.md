@@ -33,6 +33,7 @@ Datasets are in fasta format and can be found src/input_datasets. Original datas
     ├── model_training                      <- Scripts to train the model
     ├── neural_network_architectures        <- Scripts for CNN and Transformer architectures
     └── visualization                       <- Scripts to create visualizations of data and results
+    └── main.py
 ├── Galaxy_tool                             <- XML tool and python script for running the tool in galaxy 
     ├── tool.xml                   
     ├── fine_tuning.py
